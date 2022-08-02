@@ -35,9 +35,6 @@ table:not(TableHeader) {
     justify-content: center;
 }
 
-.AraonContractToPrint {
-    width: 100vw;
-}
 .Page {
     position : relative;
     width : 21cm;
